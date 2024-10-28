@@ -1,1 +1,2 @@
 *.txt filter=lfs diff=lfs merge=lfs -text
+*.6B.200d.txt filter=lfs diff=lfs merge=lfs -text
